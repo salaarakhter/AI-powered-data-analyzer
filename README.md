@@ -4,3 +4,4 @@ This project is a Corporate Data Analyzer built using Python and AI to simplify 
 It provides an intuitive GUI where users can upload Excel/CSV files, perform data aggregation, generate reports, and visualize insights without writing any code.
 
 The tool leverages Pandas for data processing, Tkinter for GUI, Matplotlib for visualization, and AI-driven logic to automate insights and improve decision-making efficiency in corporate environments.
+![image alt](https://raw.githubusercontent.com/salaarakhter/AI-powered-data-analyzer/d508c6636d561daf381d3c83cbb695120a39aede/Screenshot%202026-05-01%20193119.png)
